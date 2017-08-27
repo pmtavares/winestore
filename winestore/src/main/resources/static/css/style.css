@@ -1,0 +1,50 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+.box
+{
+	max-height: 350px;
+	overflow: hidden;
+}
+.home-headline
+{
+	font-family: 'Times New Roman', 'Times';
+	font-size: 24px;
+	color:#fff;
+	margin: auto;
+	text-align: center;
+}
+.home-headline span
+{
+	background-color: #231F20;
+	
+}
+.section-headline
+{
+	font-family: 'Times New Roman';
+	font-size: 24px;
+	color: #fff;
+	margin: auto;
+	text-align: center;
+	margin-top: -5px;
+}
+.section-headline span
+{
+	background-color: #231F20;
+	
+}
